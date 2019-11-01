@@ -1,0 +1,15 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Practice express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Malek Gorchene",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "hbs": "4.0.4"
+  }
+}
